@@ -1,6 +1,0 @@
-Carp::Assert
-Try::Tiny
-namespace::autoclean
-Moose
-HTML::TreeBuilder
-URI
